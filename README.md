@@ -14,3 +14,4 @@
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
   <img  align="center" alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img  align="center" alt="GO" src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white"/>
